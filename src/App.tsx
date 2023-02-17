@@ -29,7 +29,7 @@ function App() {
     totalPrice = Math.round(totalPrice * 100) / 100
     console.log('totalPrice', totalPrice)
     alert(
-      '购买成功, 其中包含: ' +
+      '购买成功! 其中包含: ' +
         Array.from(cartData)
           .map(([key, value]) => `${value.label} * ${value.count}`)
           .join(', ') +

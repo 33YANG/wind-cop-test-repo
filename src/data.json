@@ -1,0 +1,46 @@
+{
+  "productData": [
+    {
+      "label": "苹果",
+      "key": "Apple",
+      "price": 7.99,
+      "image": ""
+    },
+    {
+      "label": "香蕉",
+      "key": "Banana",
+      "price": 8.99,
+      "image": ""
+    },
+    {
+      "label": "梨",
+      "key": "Pear",
+      "price": 4.99,
+      "image": ""
+    },
+    {
+      "label": "葡萄",
+      "key": "Grape",
+      "price": 35.99,
+      "image": ""
+    },
+    {
+      "label": "樱桃",
+      "key": "Cherry",
+      "price": 25.99,
+      "image": ""
+    },
+    {
+      "label": "橘子（新鲜橘子，果汁多，份量大，产地直销）",
+      "key": "Orange",
+      "price": 6.99,
+      "image": ""
+    },
+    {
+      "label": "西瓜（山东地雷西瓜，日照充足，糖分含量高，营养丰富）",
+      "key": "Watermelon",
+      "price": 7.99,
+      "image": ""
+    }
+  ]
+}
